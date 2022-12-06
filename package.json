@@ -14,7 +14,7 @@
     "chai-as-promised": "^5.2.0",
     "mocha": "^2.5.3",
     "mocha-jenkins-reporter": "^0.4.3",
-    "superagent": "^1.7.2",
+    "superagent": "^8.0.5",
     "superagent-promise": "^1.1.0"
   }
 }
